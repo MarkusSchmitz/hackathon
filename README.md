@@ -9,5 +9,5 @@
 ## Usage
 
 ```bash
-    streamlit run app.py
+    streamlit run template.py
 ```
